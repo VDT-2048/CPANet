@@ -18,7 +18,7 @@ The dataset and code are available at:https://pan.baidu.com/s/1_BORNJrO4msD0OPEc
 # Citation
 
 # Related work of few-shot surface defect segmentation
-TGRNet：
+[1] TGRNet：
 Triplet-graph reasoning network for few-shot metal generic surface defect segmentation
 
 The dataset and code are available at:https://pan.baidu.com/s/1dEai3yXrFOsuWcQ5mkE7_A?pwd=qzo6 
@@ -26,8 +26,8 @@ The dataset and code are available at:https://pan.baidu.com/s/1dEai3yXrFOsuWcQ5m
 
 
 # Few-shot classification for surface defects
-FSC-20 dataset & FaNet
+[1] FSC-20 dataset & FaNet
 The dataset and code are available at:https://github.com/VDT-2048/FSC-20
 
-MSD-Cls dataset & GTnet
+[2] MSD-Cls dataset & GTnet
 The dataset and code are available at:https://github.com/successhaha/GTnet
