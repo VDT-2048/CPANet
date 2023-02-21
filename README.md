@@ -14,8 +14,10 @@ We propose a few-shot semantic segmentation method named cross position aggregat
 The dataset and code are available at:https://pan.baidu.com/s/1_BORNJrO4msD0OPEcVSc-Q?pwd=9m10 
 
 # Paper 
+https://ieeexplore.ieee.org/document/10049179
 
 # Citation
+H. Feng, K. Song, W. Cui, Y. Zhang and Y. Yan, "Cross Position Aggregation Network for Few-shot Strip Steel Surface Defect Segmentation," in IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2023.3246519.
 
 # Related work of few-shot surface defect segmentation
 [1] TGRNet：
