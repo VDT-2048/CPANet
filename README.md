@@ -16,6 +16,9 @@ The dataset and code are available at:https://pan.baidu.com/s/1_BORNJrO4msD0OPEc
 # Paper 
 https://ieeexplore.ieee.org/document/10049179
 
+[2023-Cross Position Aggregation Network for Few-Shot Strip Steel Surface Defect Segmentation.pdf](https://github.com/VDT-2048/CPANet/files/13700218/2023-Cross.Position.Aggregation.Network.for.Few-Shot.Strip.Steel.Surface.Defect.Segmentation.pdf)
+
+
 # Citation
 H. Feng, K. Song, W. Cui, Y. Zhang and Y. Yan, "Cross Position Aggregation Network for Few-shot Strip Steel Surface Defect Segmentation," in IEEE Transactions on Instrumentation and Measurement, doi: 10.1109/TIM.2023.3246519.
 
